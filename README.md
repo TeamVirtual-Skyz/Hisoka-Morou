@@ -3,16 +3,16 @@ sc ini hanyalah hasil recode sedikit demi sedikit
 Untuk nyeting wm dan owner di config.js
 Untuk nyeting menu dll,di hisoka.js
 
-#ArullBotzMD
+#TeamVirtual-Skyz 
 Script WhatsApp Bot Multi Device
 
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/a635093499b67c5b0d32e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/14a1a7704fb054da8a95c.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">ARULL OFC</h1>
+<h1 align="center">Team virtual 🇮🇩</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
