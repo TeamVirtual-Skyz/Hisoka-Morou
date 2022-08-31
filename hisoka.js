@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Putra Skyz.
+   * Contact Me on wa.me/17722223969
+   * Follow https://github.com/TeamVirtual-Skyz
 */
 
 require('./config')
@@ -2721,22 +2721,22 @@ let capt = `⭔ Title: ${judul}
                 ]
                 },
                 ]
-                hisoka.sendListMsg(m.chat, `pilih aja *Rull* Setmenu nya!`, hisoka.user.name, `*Hello Arull* !`, `Pilih Rull`, sections, m)
+                hisoka.sendListMsg(m.chat, `pilih aja *Skyz* Setmenu nya!`, hisoka.user.name, `*Hello Skyz* !`, `Pilih Skyz`, sections, m)
                 }
             }
             break
             case 'list': case 'menu': case 'help': case '?': {
-                anu = `Hallo Kak *${pushname}*! 
+                anu = `Hallo Sayang 🥰 *${pushname}*! 
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *ArullOfc*
-> Nomor : *https://wa.me/6285822347348*
+> Name : *Putra Skyz*
+> Nomor : *https://wa.me/17722223969*
 > Umur : *18*
-> Region : *Indonesia 🇲🇨*
-> Hobyy : *Gtw*
-> Made in : *Kalimantan Selatan*
-> Nama Asli : *Sahrull... Private*
+> Region : *Indonesia 🇮🇩*
+> Hobyy : *Programer*
+> Made in : *Tangerang Banten*
+> Nama Asli : *Putra Randov skyz*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
@@ -3048,7 +3048,7 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                             }, {
                                 callButton: {
                                     displayText: 'Number Owner',
-                                    phoneNumber: '+6285822347348'
+                                    phoneNumber: '+17722223969'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3057,7 +3057,7 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi Lahh!',
+                                    displayText: 'Donasi cuk!',
                                     id: 'donasi'
                                 }  
                             }, {
